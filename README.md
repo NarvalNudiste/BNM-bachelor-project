@@ -4,7 +4,10 @@
 
 ### Abstract
 
-*todo*
+*This school project, in collaboration with Bienne's Nouveau Musée, aims to develop a small educational VR activity oriented towards childrens and young visitors.
+As the exhibition will feature original work from an invited painter representing a palaeolithic life scene, visitors will be able to inspect and interact with virtual objects from this era which would be way too fragile to manipulate in real life.
+The intent is to educate players on said objects with an entertaining experience.*
+
 
 ### Specifications
 
