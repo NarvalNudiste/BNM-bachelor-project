@@ -4,8 +4,8 @@
 
 ### Abstract
 
-*This school project, in collaboration with Bienne's Nouveau Musée, aims to develop a small educational VR activity oriented towards childrens and young visitors.
-As the exhibition will feature original work from an invited painter representing a palaeolithic life scene, visitors will be able to inspect and interact with virtual objects from this era which would be way too fragile to manipulate in real life.
+*This school project, in collaboration with Bienne's Nouveau Musée, aims to develop a small educational serious game in virtual reality oriented towards childrens and young visitors.
+As the exhibition will feature original work from an invited painter representing a palaeolithic life scene, visitors will be able to interact with a virtual representation of objects from this era which would be way too fragile to manipulate in real life and replace them in a painting.
 The intent is to educate players on said objects with an entertaining experience.*
 
 
@@ -17,18 +17,17 @@ The intent is to educate players on said objects with an entertaining experience
 
 #### Data collection
 
-* Room visit, photographs
-* Measures
+* Room visit, photographs - done, 28.02.2017
 
 #### Mechanics
 
-* Setup VR in unity
-* Basic testing room
-* Grabbing custom models
-* Opening doors mechanic
+* Setup VR in unity - done
+* Basic testing room - done
+* Grabbing custom models - done
+* Opening doors mechanic - work in progress
 * Custom object classes (Data structure ?)
-* Custom models colliders
-* Movement (Teleportation)
+* Custom models colliders - (simplified mesh colliders work pretty well)
+* Movement (Teleportation) - done, maybe not needed
 * Area matching with held item
 * Reset button
 * Information overlay
@@ -53,3 +52,14 @@ The intent is to educate players on said objects with an entertaining experience
 * Actual installation
 * Report
 
+
+#### Timeline
+
+* 20.02.2017 - VR tests at home, setting up the steamvr plugin
+* 23.02.2017 - Starting implementing showcase mechanics
+* 26.02.2017 - VR tests at home with placeholders
+* 28.02.2017 - Room visit, photographs
+* 29.02.2017 - Started room 3d model
+* 06.02.2017 - Basic room model finished, will do for testing
+* 08.02.2017 - Solved lightning issues / Imported the room model / Materials fixing
+* 15.03.2017 - Custom model grabbing mechanics is okay, a little hack has been used to handle the highlight mechanic for complex models composed of more than one meshe
