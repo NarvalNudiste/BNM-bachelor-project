@@ -1,4 +1,4 @@
-# probable-umbrella
+# Bienne's Nouveau Musée - VR Installation
 
 ## Bachelor project 2018
 
