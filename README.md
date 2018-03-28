@@ -1,4 +1,4 @@
-# probable-umbrella
+# Nouveau Musée de Bienne
 
 ## Bachelor project 2018
 
