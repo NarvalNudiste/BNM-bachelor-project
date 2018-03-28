@@ -8,9 +8,9 @@
 As the exhibition will feature original work from an invited painter representing a palaeolithic life scene, visitors will be able to interact with a virtual representation of objects from this era which would be way too fragile to manipulate in real life and replace them in a painting.
 The intent is to educate players on said objects with an entertaining experience.*
 
-[Specifications](../docs/SPECS)
+[Specifications](docs/SPECS.md)
 
-[Schedule](../docs/SCHEDULE)
+[Schedule](docs/SCHEDULE.md)
 
 #### Data collection
 
