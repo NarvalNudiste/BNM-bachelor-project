@@ -1,4 +1,4 @@
-# Bienne's Nouveau Musée - VR Installation
+# probable-umbrella
 
 ## Bachelor project 2018
 
@@ -8,8 +8,9 @@
 As the exhibition will feature original work from an invited painter representing a palaeolithic life scene, visitors will be able to interact with a virtual representation of objects from this era which would be way too fragile to manipulate in real life and replace them in a painting.
 The intent is to educate players on said objects with an entertaining experience.*
 
-[Specifications](docs/SPECS)
-[Schedule](docs/SCHEDULE)
+[Specifications](../docs/SPECS)
+
+[Schedule](../docs/SCHEDULE)
 
 #### Data collection
 
@@ -60,4 +61,4 @@ The intent is to educate players on said objects with an entertaining experience
 * 15.03.2018 - Custom model grabbing mechanics is okay, a little hack has been used to handle the highlight mechanic for complex models composed of more than one mesh
 * 20.03.2018 - Matching mechanics (Gizmos used as placeholder), implementing callbacks
 * 23.03.2018 - Meeting
-* 28.03.2018 - Specification rewriting, schedule 
+* 28.03.2018 - Specification rewriting, schedule
