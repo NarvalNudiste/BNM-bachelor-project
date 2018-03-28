@@ -8,30 +8,14 @@
 As the exhibition will feature original work from an invited painter representing a palaeolithic life scene, visitors will be able to interact with a virtual representation of objects from this era which would be way too fragile to manipulate in real life and replace them in a painting.
 The intent is to educate players on said objects with an entertaining experience.*
 
-### The game
-
-The players are set in a replica of Bienne's Nouveau Musée. They are presented with a table on top of which 5 distinct palaeolithic objects are laying. In front of them is a large painting picturing the use of said objects in a real life scenario.
-The objective of the game is to match each object by replacing them in the correct area of the picture. By doing so, objects will "fade" into the picture, reveiling the original work of art.
-Objects will be accompagnied by a short description (maybe sound) provided by the Museum.
-
-### Specifications
-
-* Unity implementation
-* Movement in a restricted area
-* Objects interactions
-* Matching mechanic (realistic type of render)
-* 3D model of the room
-* UI (extra-diegetic)
-* Sound (if provided by the client)
-* Reset mechanic
-* Feedback effects
-* Installation
+[Specifications](docs/SPECS)
+[Schedule](docs/SCHEDULE)
 
 #### Data collection
 
 * Room visit, photographs - done, 28.02.2017
 
-#### Mechanics
+#### Progress
 
 * Setup VR in unity - done
 * Basic testing room - done
@@ -76,3 +60,4 @@ Objects will be accompagnied by a short description (maybe sound) provided by th
 * 15.03.2018 - Custom model grabbing mechanics is okay, a little hack has been used to handle the highlight mechanic for complex models composed of more than one mesh
 * 20.03.2018 - Matching mechanics (Gizmos used as placeholder), implementing callbacks
 * 23.03.2018 - Meeting
+* 28.03.2018 - Specification rewriting, schedule 
